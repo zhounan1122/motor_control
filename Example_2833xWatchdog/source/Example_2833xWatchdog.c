@@ -27,6 +27,8 @@
 //             http://www.ti.com/ ALL RIGHTS RESERVED $
 //###########################################################################
 
+// add a new comment by QiuZhikang
+
 #include "DSP2833x_Device.h"     // Headerfile Include File
 #include "DSP2833x_Examples.h"   // Examples Include File
 
