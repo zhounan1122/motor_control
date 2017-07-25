@@ -9,7 +9,7 @@
 <stringAttribute key="com.ti.ccstudio.debug.debugModel.ATTR_PROJECT.Texas Instruments XDS100v3 USB Debug Probe_0/C28xx" value="Example_2833xWatchdog"/>
 <stringAttribute key="com.ti.ccstudio.debug.debugModel.ATTR_TARGET_CONFIG" value="${target_config_active_default:Example_2833xWatchdog}"/>
 <stringAttribute key="com.ti.ccstudio.debug.debugModel.MRU_PROGRAM.Texas Instruments XDS100v2 USB Emulator_0/C28xx" value="D:/workspace\SXD28335_SYS_PRO_III\SXD28335_SYS_PRO_III\Example_2833xWatchdog\Debug\Example_2833xWatchdog.out"/>
-<stringAttribute key="com.ti.ccstudio.debug.debugModel.MRU_PROGRAM.Texas Instruments XDS100v3 USB Debug Probe_0/C28xx" value="C:/Users\yuy\Desktop\motor_control\motor_control\Example_2833xWatchdog\Debug\Example_2833xWatchdog.out"/>
+<stringAttribute key="com.ti.ccstudio.debug.debugModel.MRU_PROGRAM.Texas Instruments XDS100v3 USB Debug Probe_0/C28xx" value="C:/Users\yuy\Desktop\Example_2833xWatchdog\Debug\Example_2833xWatchdog.out"/>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
 <listEntry value="/Example_2833xWatchdog"/>
 </listAttribute>

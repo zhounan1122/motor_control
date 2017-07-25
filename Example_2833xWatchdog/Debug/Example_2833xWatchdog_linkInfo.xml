@@ -2,11 +2,7 @@
 <link_info>
    <banner>TMS320C2000 Linker PC v15.12.1.LTS</banner>
    <copyright>Copyright (c) 1996-2015 Texas Instruments Incorporated</copyright>
-<<<<<<< HEAD
-   <link_time>0x597583f1</link_time>
-=======
    <link_time>0x597706dd</link_time>
->>>>>>> refs/remotes/origin/master
    <link_errors>0x0</link_errors>
    <output_file>Example_2833xWatchdog.out</output_file>
    <entry_point>
@@ -733,268 +729,144 @@
          <name>.debug_info</name>
          <load_address>0x0</load_address>
          <run_address>0x0</run_address>
-<<<<<<< HEAD
-         <size>0x116</size>
-=======
          <size>0x112</size>
->>>>>>> refs/remotes/origin/master
          <input_file_ref idref="fl-2"/>
       </object_component>
       <object_component id="oc-52">
          <name>.debug_info</name>
-<<<<<<< HEAD
-         <load_address>0x116</load_address>
-         <run_address>0x116</run_address>
-         <size>0x1fb1</size>
-=======
          <load_address>0x112</load_address>
          <run_address>0x112</run_address>
          <size>0x1fad</size>
->>>>>>> refs/remotes/origin/master
          <input_file_ref idref="fl-3"/>
       </object_component>
       <object_component id="oc-59">
          <name>.debug_info</name>
-<<<<<<< HEAD
-         <load_address>0x20c7</load_address>
-         <run_address>0x20c7</run_address>
-         <size>0x154</size>
-=======
          <load_address>0x20bf</load_address>
          <run_address>0x20bf</run_address>
          <size>0x150</size>
->>>>>>> refs/remotes/origin/master
          <input_file_ref idref="fl-4"/>
       </object_component>
       <object_component id="oc-5d">
          <name>.debug_info</name>
-<<<<<<< HEAD
-         <load_address>0x221b</load_address>
-         <run_address>0x221b</run_address>
-         <size>0x2481</size>
-=======
          <load_address>0x220f</load_address>
          <run_address>0x220f</run_address>
          <size>0x247d</size>
->>>>>>> refs/remotes/origin/master
          <input_file_ref idref="fl-5"/>
       </object_component>
       <object_component id="oc-63">
          <name>.debug_info</name>
-<<<<<<< HEAD
-         <load_address>0x469c</load_address>
-         <run_address>0x469c</run_address>
-         <size>0x34e8</size>
-=======
          <load_address>0x468c</load_address>
          <run_address>0x468c</run_address>
          <size>0x34e4</size>
->>>>>>> refs/remotes/origin/master
          <input_file_ref idref="fl-6"/>
       </object_component>
       <object_component id="oc-68">
          <name>.debug_info</name>
-<<<<<<< HEAD
-         <load_address>0x7b84</load_address>
-         <run_address>0x7b84</run_address>
-         <size>0x1343f</size>
-=======
          <load_address>0x7b70</load_address>
          <run_address>0x7b70</run_address>
          <size>0x292a</size>
->>>>>>> refs/remotes/origin/master
          <input_file_ref idref="fl-7"/>
       </object_component>
       <object_component id="oc-6d">
          <name>.debug_info</name>
-<<<<<<< HEAD
-         <load_address>0x1afc3</load_address>
-         <run_address>0x1afc3</run_address>
-         <size>0xb88</size>
-=======
          <load_address>0xa49a</load_address>
          <run_address>0xa49a</run_address>
          <size>0x1343b</size>
->>>>>>> refs/remotes/origin/master
          <input_file_ref idref="fl-8"/>
       </object_component>
       <object_component id="oc-a1">
          <name>.debug_info</name>
-<<<<<<< HEAD
-         <load_address>0x1bb4b</load_address>
-         <run_address>0x1bb4b</run_address>
-         <size>0x2306</size>
-=======
          <load_address>0x1d8d5</load_address>
          <run_address>0x1d8d5</run_address>
          <size>0xb84</size>
->>>>>>> refs/remotes/origin/master
          <input_file_ref idref="fl-9"/>
       </object_component>
       <object_component id="oc-a6">
          <name>.debug_info</name>
-<<<<<<< HEAD
-         <load_address>0x1de51</load_address>
-         <run_address>0x1de51</run_address>
-         <size>0x20d9</size>
-=======
          <load_address>0x1e459</load_address>
          <run_address>0x1e459</run_address>
          <size>0x2302</size>
->>>>>>> refs/remotes/origin/master
          <input_file_ref idref="fl-a"/>
       </object_component>
       <object_component id="oc-ab">
          <name>.debug_info</name>
-<<<<<<< HEAD
-         <load_address>0x1ff2a</load_address>
-         <run_address>0x1ff2a</run_address>
-         <size>0x116</size>
-=======
          <load_address>0x2075b</load_address>
          <run_address>0x2075b</run_address>
          <size>0x20d5</size>
->>>>>>> refs/remotes/origin/master
          <input_file_ref idref="fl-b"/>
       </object_component>
       <object_component id="oc-b1">
          <name>.debug_info</name>
-<<<<<<< HEAD
-         <load_address>0x20040</load_address>
-         <run_address>0x20040</run_address>
-         <size>0x2a8f</size>
-=======
          <load_address>0x22830</load_address>
          <run_address>0x22830</run_address>
          <size>0x112</size>
->>>>>>> refs/remotes/origin/master
          <input_file_ref idref="fl-c"/>
       </object_component>
       <object_component id="oc-b5">
          <name>.debug_info</name>
-<<<<<<< HEAD
-         <load_address>0x22acf</load_address>
-         <run_address>0x22acf</run_address>
-         <size>0x52e</size>
-=======
          <load_address>0x22942</load_address>
          <run_address>0x22942</run_address>
          <size>0x4d24</size>
->>>>>>> refs/remotes/origin/master
          <input_file_ref idref="fl-d"/>
       </object_component>
       <object_component id="oc-bd">
          <name>.debug_info</name>
-<<<<<<< HEAD
-         <load_address>0x22ffd</load_address>
-         <run_address>0x22ffd</run_address>
-         <size>0x187</size>
-         <input_file_ref idref="fl-18"/>
-=======
          <load_address>0x27666</load_address>
          <run_address>0x27666</run_address>
          <size>0x5b6</size>
          <input_file_ref idref="fl-e"/>
->>>>>>> refs/remotes/origin/master
       </object_component>
       <object_component id="oc-c4">
          <name>.debug_info</name>
-<<<<<<< HEAD
-         <load_address>0x23184</load_address>
-         <run_address>0x23184</run_address>
-         <size>0x643</size>
-=======
          <load_address>0x27c1c</load_address>
          <run_address>0x27c1c</run_address>
          <size>0x187</size>
->>>>>>> refs/remotes/origin/master
          <input_file_ref idref="fl-19"/>
       </object_component>
       <object_component id="oc-c8">
          <name>.debug_info</name>
-<<<<<<< HEAD
-         <load_address>0x237c7</load_address>
-         <run_address>0x237c7</run_address>
-         <size>0x12e</size>
-=======
          <load_address>0x27da3</load_address>
          <run_address>0x27da3</run_address>
          <size>0x643</size>
->>>>>>> refs/remotes/origin/master
          <input_file_ref idref="fl-1a"/>
       </object_component>
       <object_component id="oc-ce">
          <name>.debug_info</name>
-<<<<<<< HEAD
-         <load_address>0x238f5</load_address>
-         <run_address>0x238f5</run_address>
-         <size>0x5c7</size>
-=======
          <load_address>0x283e6</load_address>
          <run_address>0x283e6</run_address>
          <size>0x12e</size>
->>>>>>> refs/remotes/origin/master
          <input_file_ref idref="fl-1b"/>
       </object_component>
       <object_component id="oc-d2">
          <name>.debug_info</name>
-<<<<<<< HEAD
-         <load_address>0x23ebc</load_address>
-         <run_address>0x23ebc</run_address>
-         <size>0x3fe</size>
-=======
          <load_address>0x28514</load_address>
          <run_address>0x28514</run_address>
          <size>0x5c7</size>
->>>>>>> refs/remotes/origin/master
          <input_file_ref idref="fl-1c"/>
       </object_component>
       <object_component id="oc-d9">
          <name>.debug_info</name>
-<<<<<<< HEAD
-         <load_address>0x242ba</load_address>
-         <run_address>0x242ba</run_address>
-         <size>0x3fb</size>
-=======
          <load_address>0x28adb</load_address>
          <run_address>0x28adb</run_address>
          <size>0x3fe</size>
->>>>>>> refs/remotes/origin/master
          <input_file_ref idref="fl-1d"/>
       </object_component>
       <object_component id="oc-de">
          <name>.debug_info</name>
-<<<<<<< HEAD
-         <load_address>0x246b5</load_address>
-         <run_address>0x246b5</run_address>
-         <size>0x51d</size>
-=======
          <load_address>0x28ed9</load_address>
          <run_address>0x28ed9</run_address>
          <size>0x3fb</size>
->>>>>>> refs/remotes/origin/master
          <input_file_ref idref="fl-1e"/>
       </object_component>
       <object_component id="oc-e3">
          <name>.debug_info</name>
-<<<<<<< HEAD
-         <load_address>0x24bd2</load_address>
-         <run_address>0x24bd2</run_address>
-         <size>0x4ea</size>
-=======
          <load_address>0x292d4</load_address>
          <run_address>0x292d4</run_address>
          <size>0x51d</size>
->>>>>>> refs/remotes/origin/master
          <input_file_ref idref="fl-1f"/>
       </object_component>
       <object_component id="oc-e8">
          <name>.debug_info</name>
-<<<<<<< HEAD
-         <load_address>0x250bc</load_address>
-         <run_address>0x250bc</run_address>
-         <size>0xc1</size>
-=======
          <load_address>0x297f1</load_address>
          <run_address>0x297f1</run_address>
          <size>0x4ea</size>
@@ -1005,7 +877,6 @@
          <load_address>0x29cdb</load_address>
          <run_address>0x29cdb</run_address>
          <size>0xbd</size>
->>>>>>> refs/remotes/origin/master
       </object_component>
       <object_component id="oc-4f">
          <name>.debug_line</name>
@@ -2160,11 +2031,7 @@
          <name>.debug_info</name>
          <load_address>0x0</load_address>
          <run_address>0x0</run_address>
-<<<<<<< HEAD
-         <size>0x2517d</size>
-=======
          <size>0x29d98</size>
->>>>>>> refs/remotes/origin/master
          <contents>
             <object_component_ref idref="oc-4e"/>
             <object_component_ref idref="oc-52"/>
