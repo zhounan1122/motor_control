@@ -101,11 +101,11 @@ void InitEPwm(void)
 	EPwm2Regs.DBFED = 50;
 
 
-//	EPwm2Regs.ETSEL.bit.SOCAEN = 1;
-//	EPwm2Regs.ETSEL.bit.SOCBEN = 1;
-//	EPwm2Regs.ETSEL.bit.SOCASEL = ET_CTR_PRD;
-//	EPwm2Regs.ETSEL.bit.SOCBSEL = ET_CTR_PRD;
-//	EPwm2Regs.ETPS.bit.SOCAPRD = ET_1ST;
+	EPwm2Regs.ETSEL.bit.SOCAEN = 1;
+	EPwm2Regs.ETSEL.bit.SOCBEN = 1;
+	EPwm2Regs.ETSEL.bit.SOCASEL = ET_CTR_PRD;
+	EPwm2Regs.ETSEL.bit.SOCBSEL = ET_CTR_PRD;
+	EPwm2Regs.ETPS.bit.SOCAPRD = ET_1ST;
 
 	
 }

@@ -43,13 +43,13 @@ Default initalizer for the PIDREG3 object.
 #define PIDREG3_DEFAULTS { 0, \
                            0, \
                            0, \
+                           1, \
                            0, \
                            0, \
                            0, \
                            0, \
-                           0, \
-                           0, \
-                           0, \
+                           3750, \
+                           -3750, \
                            0, \
                            0, \
                            0, \

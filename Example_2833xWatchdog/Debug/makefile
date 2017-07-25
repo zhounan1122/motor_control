@@ -15,6 +15,7 @@ ORDERED_OBJS += \
 "./source/DSP2833x_CodeStartBranch.obj" \
 "./source/DSP2833x_DefaultIsr.obj" \
 "./source/DSP2833x_EPwm.obj" \
+"./source/DSP2833x_EQep.obj" \
 "./source/DSP2833x_GlobalVariableDefs.obj" \
 "./source/DSP2833x_PieCtrl.obj" \
 "./source/DSP2833x_PieVect.obj" \
@@ -166,8 +167,8 @@ Example_2833xWatchdog.hex: $(EXE_OUTPUTS)
 # Other Targets
 clean:
 	-$(RM) $(EXE_OUTPUTS__QUOTED)$(BIN_OUTPUTS__QUOTED)
-	-$(RM) "source\DSP2833x_Adc.d" "source\DSP2833x_DefaultIsr.d" "source\DSP2833x_EPwm.d" "source\DSP2833x_GlobalVariableDefs.d" "source\DSP2833x_PieCtrl.d" "source\DSP2833x_PieVect.d" "source\DSP2833x_SysCtrl.d" "source\Example_2833xWatchdog.d" "source\control_algorithm.d" 
-	-$(RM) "source\DSP2833x_ADC_cal.obj" "source\DSP2833x_Adc.obj" "source\DSP2833x_CodeStartBranch.obj" "source\DSP2833x_DefaultIsr.obj" "source\DSP2833x_EPwm.obj" "source\DSP2833x_GlobalVariableDefs.obj" "source\DSP2833x_PieCtrl.obj" "source\DSP2833x_PieVect.obj" "source\DSP2833x_SysCtrl.obj" "source\DSP2833x_usDelay.obj" "source\Example_2833xWatchdog.obj" "source\control_algorithm.obj" 
+	-$(RM) "source\DSP2833x_Adc.d" "source\DSP2833x_DefaultIsr.d" "source\DSP2833x_EPwm.d" "source\DSP2833x_EQep.d" "source\DSP2833x_GlobalVariableDefs.d" "source\DSP2833x_PieCtrl.d" "source\DSP2833x_PieVect.d" "source\DSP2833x_SysCtrl.d" "source\Example_2833xWatchdog.d" "source\control_algorithm.d" 
+	-$(RM) "source\DSP2833x_ADC_cal.obj" "source\DSP2833x_Adc.obj" "source\DSP2833x_CodeStartBranch.obj" "source\DSP2833x_DefaultIsr.obj" "source\DSP2833x_EPwm.obj" "source\DSP2833x_EQep.obj" "source\DSP2833x_GlobalVariableDefs.obj" "source\DSP2833x_PieCtrl.obj" "source\DSP2833x_PieVect.obj" "source\DSP2833x_SysCtrl.obj" "source\DSP2833x_usDelay.obj" "source\Example_2833xWatchdog.obj" "source\control_algorithm.obj" 
 	-$(RM) "source\DSP2833x_ADC_cal.d" "source\DSP2833x_CodeStartBranch.d" "source\DSP2833x_usDelay.d" 
 	-@echo 'Finished clean'
 	-@echo ' '
