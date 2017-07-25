@@ -64,7 +64,7 @@ void Init_F28335_Adc(void)
    AdcRegs.ADCTRL3.bit.SMODE_SEL = 0;
    AdcRegs.ADCCHSELSEQ1.bit.CONV00 = 0x0;
 
-   AdcRegs.ADCTRL1.bit.CPS = 0x00;
+   AdcRegs.ADCTRL1.bit.CPS = 0x00;//ADCCLKΪ25MHz
    AdcRegs.ADCTRL1.bit.ACQ_PS = 0x01;
    AdcRegs.ADCTRL1.bit.CONT_RUN = 0;
    AdcRegs.ADCTRL3.bit.ADCCLKPS = 0x03;

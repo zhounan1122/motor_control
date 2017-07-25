@@ -12,6 +12,7 @@ C_SRCS += \
 ../source/DSP2833x_Adc.c \
 ../source/DSP2833x_DefaultIsr.c \
 ../source/DSP2833x_EPwm.c \
+../source/DSP2833x_EQep.c \
 ../source/DSP2833x_GlobalVariableDefs.c \
 ../source/DSP2833x_PieCtrl.c \
 ../source/DSP2833x_PieVect.c \
@@ -25,6 +26,7 @@ OBJS += \
 ./source/DSP2833x_CodeStartBranch.obj \
 ./source/DSP2833x_DefaultIsr.obj \
 ./source/DSP2833x_EPwm.obj \
+./source/DSP2833x_EQep.obj \
 ./source/DSP2833x_GlobalVariableDefs.obj \
 ./source/DSP2833x_PieCtrl.obj \
 ./source/DSP2833x_PieVect.obj \
@@ -42,6 +44,7 @@ C_DEPS += \
 ./source/DSP2833x_Adc.d \
 ./source/DSP2833x_DefaultIsr.d \
 ./source/DSP2833x_EPwm.d \
+./source/DSP2833x_EQep.d \
 ./source/DSP2833x_GlobalVariableDefs.d \
 ./source/DSP2833x_PieCtrl.d \
 ./source/DSP2833x_PieVect.d \
@@ -53,6 +56,7 @@ C_DEPS__QUOTED += \
 "source\DSP2833x_Adc.d" \
 "source\DSP2833x_DefaultIsr.d" \
 "source\DSP2833x_EPwm.d" \
+"source\DSP2833x_EQep.d" \
 "source\DSP2833x_GlobalVariableDefs.d" \
 "source\DSP2833x_PieCtrl.d" \
 "source\DSP2833x_PieVect.d" \
@@ -66,6 +70,7 @@ OBJS__QUOTED += \
 "source\DSP2833x_CodeStartBranch.obj" \
 "source\DSP2833x_DefaultIsr.obj" \
 "source\DSP2833x_EPwm.obj" \
+"source\DSP2833x_EQep.obj" \
 "source\DSP2833x_GlobalVariableDefs.obj" \
 "source\DSP2833x_PieCtrl.obj" \
 "source\DSP2833x_PieVect.obj" \
@@ -88,6 +93,7 @@ C_SRCS__QUOTED += \
 "../source/DSP2833x_Adc.c" \
 "../source/DSP2833x_DefaultIsr.c" \
 "../source/DSP2833x_EPwm.c" \
+"../source/DSP2833x_EQep.c" \
 "../source/DSP2833x_GlobalVariableDefs.c" \
 "../source/DSP2833x_PieCtrl.c" \
 "../source/DSP2833x_PieVect.c" \

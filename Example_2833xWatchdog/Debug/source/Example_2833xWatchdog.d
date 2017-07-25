@@ -26,6 +26,7 @@ source/Example_2833xWatchdog.obj: C:/Users/Administrator/Desktop/motor_control/E
 source/Example_2833xWatchdog.obj: C:/Users/Administrator/Desktop/motor_control/Example_2833xWatchdog/include/DSP2833x_Dma_defines.h
 source/Example_2833xWatchdog.obj: C:/Users/Administrator/Desktop/motor_control/Example_2833xWatchdog/include/DSP2833x_I2c_defines.h
 source/Example_2833xWatchdog.obj: C:/Users/Administrator/Desktop/motor_control/Example_2833xWatchdog/include/DSP2833x_DefaultIsr.h
+source/Example_2833xWatchdog.obj: C:/Users/Administrator/Desktop/motor_control/Example_2833xWatchdog/include/control_algorithm.h
 
 ../source/Example_2833xWatchdog.c: 
 C:/Users/Administrator/Desktop/motor_control/Example_2833xWatchdog/include/DSP2833x_Device.h: 
@@ -53,3 +54,4 @@ C:/Users/Administrator/Desktop/motor_control/Example_2833xWatchdog/include/DSP28
 C:/Users/Administrator/Desktop/motor_control/Example_2833xWatchdog/include/DSP2833x_Dma_defines.h: 
 C:/Users/Administrator/Desktop/motor_control/Example_2833xWatchdog/include/DSP2833x_I2c_defines.h: 
 C:/Users/Administrator/Desktop/motor_control/Example_2833xWatchdog/include/DSP2833x_DefaultIsr.h: 
+C:/Users/Administrator/Desktop/motor_control/Example_2833xWatchdog/include/control_algorithm.h: 
